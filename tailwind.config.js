@@ -13,6 +13,12 @@ export default {
             'accent': '#32CD32',
             'neutral': '#F5F5F5',
             'typography': '#333333'
+        },
+        fontFamily: {
+            'poppins': ["Poppins", "sans-serif"],
+        },
+        fontSize: {
+            'x': '0.75rem'
         }
     },
   },
